@@ -1,1 +1,1 @@
-** JavaFX Snake Game
+# JavaFX Snake Game
